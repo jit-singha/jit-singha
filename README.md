@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jit%20Singha&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Robotics%20%E2%80%A2%20Hardware%20%E2%80%A2%20Software%20%E2%80%A2%20Data&descSize=18&descAlignY=58" alt="Jit Singha" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=260&section=header&text=Jit%20Singha&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Robotics%20%E2%80%A2%20Hardware%20%E2%80%A2%20Software%20%E2%80%A2%20Data&descSize=20&descAlignY=58&descAlign=50" alt="Jit Singha" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jit-singha">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Junior+Robotics+IT+Engineer+%40+Kosha+Labs+%F0%9F%A4%96;Bridging+hardware+and+software+%E2%9A%99%EF%B8%8F;Ex-Data+Analyst+%40+Euler+Motors+%F0%9F%93%8A;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing intro" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=720&height=50&lines=Hi+%F0%9F%91%8B+I'm+Jit+Singha;Junior+Robotics+IT+Engineer+%40+Kosha+Labs;Hardware+%2B+Software+%3D+Robots+%F0%9F%A4%96;Ex-Data+Analyst+%40+Euler+Motors" alt="Typing intro" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jit-singha&label=Profile%20views&color=36BCF7&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/jit-singha-"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Kosha%20Labs-Robotics-6A11CB?style=for-the-badge&logo=probot&logoColor=white" alt="Kosha Labs" />
+  <img src="https://komarev.com/ghpvc/?username=jit-singha&label=Profile%20views&color=2575fc&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -41,19 +41,13 @@ Before robotics, I worked as a **Data Analyst at Euler Motors**, turning operati
 ## 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jit-singha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=jit-singha&theme=default&hide_border=true&ring=6A11CB&fire=2575FC&currStreakLabel=6A11CB" alt="GitHub streak" />
 </p>
 
 ## 📫 Connect
 
-Open to collaborating on robotics, automation and data projects.
+Open to collaborating on robotics, automation and data projects. Reach me on [LinkedIn](https://www.linkedin.com/in/jit-singha-).
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jit-singha-">
-    <img src="https://img.shields.io/badge/LinkedIn-Jit%20Singha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" alt="" width="100%" />
 </p>
