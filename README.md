@@ -49,5 +49,11 @@ Before robotics, I worked as a **Data Analyst at Euler Motors**, turning operati
 Open to collaborating on robotics, automation and data projects.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jit-singha-">
+    <img src="https://img.shields.io/badge/LinkedIn-Jit%20Singha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="" width="100%" />
 </p>
