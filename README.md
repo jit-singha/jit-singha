@@ -44,10 +44,6 @@ Before robotics, I worked as a **Data Analyst at Euler Motors**, turning operati
   <img src="https://streak-stats.demolab.com?user=jit-singha&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jit-singha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
 ## 📫 Connect
 
 Open to collaborating on robotics, automation and data projects.
